@@ -12,7 +12,7 @@ article {
 .art2 {
     background: #535bf2;
 }
-
+/*ID Selector*/
 #test {
     background: coral;
 }
